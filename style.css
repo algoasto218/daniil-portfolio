@@ -1,0 +1,145 @@
+h1{
+    text-align: center;
+}
+
+  header{
+    background-color: rgb(220, 20, 153);
+  }  
+
+ a{
+    text-decoration: none;
+    color: black;
+ }
+
+ nav{
+    display: flex;
+    justify-content: space-around;
+ }
+
+.circle1{
+   height: 150px;
+    border-radius:50%;
+    background-color: red;
+    position: absolute;
+    right: 10%;
+    padding: 50px;
+ }
+
+ P{
+    position: relative;
+   width: 290px;
+
+ }
+
+ h2{
+    position: relative;
+
+ }
+
+ .circle2{
+    
+    height:130px;
+    border-radius: 50%;
+    background-color:red;
+    position:absolute;
+    left:10%;
+    top:50%;
+    padding: 50px;
+ }
+
+
+
+ .circle3{
+    width:370px;
+    height:250px;
+    border-radius: 50%;
+    background-color:red;
+    position:absolute; 
+    top: 85%;
+    right: -5%;
+ }
+
+ .sosiski{
+    width: 180px;
+    height: 320px;
+    background-color: crimson;
+    position: absolute;
+    top: 85%;
+    left: 60%;
+ }
+
+ .sosiski p{
+ width: 180px;
+
+}
+
+
+
+
+ .sosiski2{
+   width: 180px;
+    height: 320px;
+    background-color: crimson;
+    position: absolute;
+    top: 85%;
+    right: 60%;
+ }
+
+.sosiski2 p{
+ width: 180px;
+
+}
+
+ .text2{
+  top:85%;
+    left:15%;
+ }
+
+ footer{
+    width: 100%;
+    height: 740px;
+    background-color: crimson;
+    position: absolute;
+    top: 150%;
+    right: 0%;
+ }
+
+ h3{
+   
+   font-size: 25px;
+ }
+
+ h4{
+  
+   font-size: 24px;
+  
+ }
+
+ h5{
+   font-size: 24px;
+ }
+
+img{
+   width: 120px;
+}
+
+section{
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+}
+
+article{
+   text-align: center;
+   border: double 2px black;
+   width: 300px;
+   margin:3px;
+}
+
+ .xpx{
+   border: 0;
+ }
+
+ nav:hover{
+   background-color: rgb(214, 0, 0);
+ }
